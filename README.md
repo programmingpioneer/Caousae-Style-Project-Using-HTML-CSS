@@ -14,4 +14,4 @@ Explore the code and elevate your web development skills with this exciting proj
 
 # Code Preview  
 
-<img src="" width="300" height="200" />
+<img src="https://github.com/programmingpioneer/Caousae-Style-Project-Using-HTML-CSS/blob/9266b6a6883ccc1a22194aaa6164723374a83113/Caousae%20Style%20Project%20Using%20HTML%20CSS/images/Coutput.png" />

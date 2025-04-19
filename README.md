@@ -1,4 +1,4 @@
-# 🌟 Caousae Style Project
+# 🌟 Carousel Style Project
 
 ## 📝 Description
 The Caousae Style Project is a visually stunning carousel that showcases aspiring software engineers. It highlights their skills and programming languages in a modern, responsive format, making learning engaging and fun!
